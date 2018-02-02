@@ -1,0 +1,6 @@
+Create a file called <surname>.txt
+
+Include the following info:
+  1. Name
+  2. Nickname
+  3. message to the class
